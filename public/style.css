@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     padding: 10px;
     background-color: #f0f2f5;
-    transition: background-Color 0.7s ease;
+    transition: background-color 0.7s ease;
 }
 
 .kalkulator-container {
@@ -40,7 +40,7 @@ button {
 .tips-container {
     margin-top: 30px;
     padding: 20px;
-    background-color: #8f9dab;
+    background-color: #fffee7;
     border-radius: 8px;
     border: 1px solid #ddd;
 }
