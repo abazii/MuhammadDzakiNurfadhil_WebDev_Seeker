@@ -48,7 +48,6 @@ semuaCheckbox.forEach(function(checkbox) {
         }
 
         let jumlahDicentang = document.querySelectorAll(".tip-checkbox:checked").length;
-s
         if (jumlahDicentang === 0) {
             teksMotivasi.innerText = "Ayo mulai lakukan aksi nyata untuk bumi kita!";
         } else if (jumlahDicentang <= 2) {
